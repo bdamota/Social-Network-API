@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Social Network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdamota/Social-Network-API.git"
+  },
+  "author": "Briana daMota",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/bdamota/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/bdamota/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.28.0",
+    "mongoose": "^5.10.6"
+  }
+}
